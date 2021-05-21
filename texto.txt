@@ -1,0 +1,274 @@
+-> DIVISÃO DE CIDADES DO CEARÁ <-
+
+obs: AS CIDADES FORAM DIVIDIDAS DE FORMA ALEATÓRIA !!
+
+EMAIL: gvm1@discente.ifpe.edu.br
+    121	Mulungu	
+    170	Tamboril	
+    4	Acopiara
+    26	Barroquinha	
+    159	Santana do Acaraú	
+    135	Parambu	
+    128	Pacatuba
+    36	Caridade
+    132	Palmácia
+
+
+EMAIL: rwsc@discente.ifpe.edu.br
+    71	Horizonte	
+    155	Russas	
+    44	Caucaia
+    79	Ipaporanga	
+    83	Iracema	
+    100	Jucás	
+    47	Choró	
+    102	Limoeiro do Norte
+    177	Ubajara	
+
+
+EMAIL: mtfn@discente.ifpe.edu.br
+    165	Senador Pompeu	
+    101	Lavras da Mangabeira	
+    85	Itaiçaba	
+    164	São Luís do Curu	
+    153	Redenção
+    158	Santa Quitéria	
+    81	Ipu	
+    163	São João do Jaguaribe	
+    23	Barbalha
+
+
+EMAIL: mscp@discente.ifpe.edu.br
+    73	Ibiapina
+    10	Antonina do Norte
+    140	Pereiro	
+    119	Morrinhos	
+    145	Porteiras
+    169	Tabuleiro do Norte	
+    120	Mucambo	
+    144	Poranga	
+    146	Potengi	
+
+
+EMAIL: fms7@discente.ifpe.edu.br
+    90	Itarema	
+    175	Trairi	
+    152	Quixeré
+    75	Icapuí	
+    95	Jaguaruana	
+    160	Santana do Cariri	
+    77	Iguatu
+    113	Miraíma	
+    167	Sobral	
+
+
+EMAIL: atss1@discente.ifpe.edu.br
+    166	Senador Sá	
+    134	Paraipaba	
+    180	Uruburetama
+    25	Barro
+    124	Novo Oriente	
+    69	Guaramiranga
+    82	Ipueiras	
+    139	Pentecoste	
+    48	Chorozinho	
+
+
+EMAIL: edxb@discente.ifpe.edu.br
+    51	Crato	
+    64	Granja
+    110	Meruoca	
+    91	Itatira	
+    65	Granjeiro
+    37	Cariré
+    112	Milhã	
+    98	Jijoca de Jericoacoara
+    58	Forquilha	
+
+
+EMAIL: ellg@discente.ifpe.edu.br
+    122	Nova Olinda
+    29	Bela Cruz	
+    39	Cariús	
+    3	Acaraú	
+    142	Piquet Carneiro	
+    168	Solonópole	
+    53	Cruz
+    93	Jaguaribara	
+    7	Altaneira
+
+
+EMAIL: jwbs@discente.ifpe.edu.br
+    72	Ibaretama
+    16	Araripe	
+    56	Eusébio
+    183	Várzea Alegre
+    45	Cedro
+    46	Chaval
+    184	Viçosa do Ceará
+    21	Baixio
+    172	Tauá	
+
+
+EMAIL: apa1@discente.ifpe.edu.br
+    12	Aquiraz	
+    86	Itaitinga	
+    151	Quixeramobim
+    17	Aratuba
+    55	Ereré
+    87	Itapajé	
+    92	Jaguaretama	
+    133	Paracuru	
+    179	Umirim	
+
+
+EMAIL: ijrs1@discente.ifpe.edu.br
+    63	Graça
+    176	Tururu	
+    89	Itapiúna
+    1   Abaiara
+    141	Pindoretama	
+    126	Orós
+    107	Martinópole	
+    59	Fortaleza
+    38	Caririaçu
+
+
+EMAIL: psq@discente.ifpe.edu.br
+    115	Mombaça	
+    174	Tianguá	
+    147	Potiretama	
+    131	Palhano	
+    9	Amontada
+    6	Alcântaras
+    127	Pacajus	
+    108	Massapê	
+    99	Juazeiro do Norte	
+
+
+EMAIL: mrcs2@discente.ifpe.edu.br
+    18	Arneiroz
+    171	Tarrafas	
+    116	Monsenhor Tabosa	
+    50	Crateús	
+    33	Campos Sales	
+    8	Alto Santo
+    28	Beberibe
+    181	Uruoca
+    78	Independência	
+
+
+EMAIL: vta@discente.ifpe.edu.br
+    43	Catunda
+    35	Capistrano
+    19	Assaré
+    178	Umari	
+    143	Pires Ferreira	
+    22	Banabuiú	
+    20	Aurora	
+    66	Groaíras
+    117	Morada Nova
+
+
+EMAIL: ants@discente.ifpe.edu.br
+    125	Ocara	
+    103	Madalena	
+    156	Saboeiro
+    118	Moraújo
+    57	Farias Brito
+    109	Mauriti	
+    96	Jardim	
+    31	Brejo Santo	
+    24	Barreira
+
+
+EMAIL: dcs12@discente.ifpe.edu.br
+    154	Reriutaba	
+    2	Acarape	
+    106	Marco	
+    15	Ararendá
+    34	Canindé
+    76	Icó	
+    173	Tejuçuoca	
+    161	São Benedito
+    60	Fortim	
+
+
+EMAIL: jrss1@discente.ifpe.edu.br
+    114	Missão Velha
+    40	Carnaubal
+    84	Irauçuba
+    162	São Gonçalo do Amarante	
+    27	Baturité	
+    14	Aracoiaba
+    41	Cascavel
+    5	Aiuaba	
+    136	Paramoti	
+
+
+EMAIL: krts@discente.ifpe.edu.br
+    94	Jaguaribe
+    42	Catarina
+    104	Maracanaú	
+    149	Quixadá	
+    52	Croatá	
+    70	Hidrolândia
+    88	Itapipoca	
+    11	Apuiarés
+    13	Aracati	
+
+
+EMAIL: dmfcb@discente.ifpe.edu.br
+    129	Pacoti
+    54	Deputado Irapuan Pinheiro
+    32	Camocim	
+    123	Nova Russas	
+    74	Ibicuitinga	
+    97	Jati	
+    80	Ipaumirim	
+    30	Boa Viagem
+    148	Quiterianópolis
+
+
+
+PESSOAS SORTEADAS PARA FICAR COM UMA CIDADE A MAIS
+
+EMAIL: atss1@discente.ifpe.edu.br
+     ->157	Salitre	
+
+EMAIL: dcs12@discente.ifpe.edu.br
+     ->137	Pedra Branca	
+
+EMAIL: rwsc@discente.ifpe.edu.br
+     ->182	Varjota
+
+EMAIL: edxb@discente.ifpe.edu.br
+     ->130	Pacujá
+
+EMAIL: krts@discente.ifpe.edu.br
+     ->68	Guaraciaba do Norte
+
+EMAIL: mscp@discente.ifpe.edu.br
+     ->111	Milagres	
+
+EMAIL: ellg@discente.ifpe.edu.br
+     ->105	Maranguape	
+
+EMAIL: jrss1@discente.ifpe.edu.br
+     ->138	Penaforte
+
+EMAIL: ijrs1@discente.ifpe.edu.br
+     ->62	General Sampaio	
+
+EMAIL: mtfn@discente.ifpe.edu.br
+     ->61	Frecheirinha
+
+EMAIL: jwbs@discente.ifpe.edu.br
+     ->49	Coreaú
+
+EMAIL: vta@discente.ifpe.edu.br
+     ->67	Guaiúba	
+
+EMAIL: ants@discente.ifpe.edu.br
+     ->150	Quixelô	
+
