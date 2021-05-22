@@ -17,11 +17,43 @@ class mapa(Frame):
         lbl = Label(text="MAPEAMENTO DA CIDADE:")
         lbl.pack()
 
+        #POSIÇÃO
         self.etPos = Entry(font='Courier 12')
         self.etPos.pack()
 
         self.lblPosAtual = Label(font='Courier 12', fg='red')
         self.lblPosAtual.pack()
+
+        #BOTAO PARA GERAR CÓDIGO
+        btCod = Button(text='GERAR CÓDIGO HTML', command=lambda: setCod())
+        btCod.pack()
+
+        #INFOS
+        lblTitulo = Label(text='Titulo:')
+        lblTitulo.pack()
+
+        etTitulo = Entry()
+        etTitulo.pack()
+
+        lblLink = Label(text='Link:')
+        lblLink.pack()
+
+        etLink = Entry()
+        etLink.pack()
+
+        lblCod = Label(text="CÓDIGO HTML:")
+        lblCod.pack()
+
+        self.etCodigo = Entry(font='Courier 12')
+        self.etCodigo.pack()
+
+        def setCod():
+
+            codigo = '<area title="{}" shape="poly" alt="Part" coords="{}" href="{}"/>'.format(etTitulo.get(), self.etPos.get(), etLink.get(), )
+            self.etCodigo.insert(0, codigo)
+
+            etLink.delete(0, END)
+            etTitulo.delete(0, END)
 
         #AO PRESSIONAR P DISPARAR O EVENTO
         self.window.bind("<KeyPress-p>", self.keyPressed)
@@ -31,7 +63,7 @@ class mapa(Frame):
     def queryMousePosition(self):
         pt = POINT()
         windll.user32.GetCursorPos(byref(pt))
-        return { "x": pt.x-5, "y": pt.y+510}
+        return { "x": pt.x-5, "y": pt.y+510 }
 
     def keyPressed(self, event):
         l = event.keysym
