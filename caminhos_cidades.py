@@ -187,8 +187,17 @@ list_caminhos = [
     'pages/Ico/Ico.html'
 ]
 
-for name in list_caminhos:
+for pos, name in enumerate(list_caminhos):
 
     fileObj = Path(name)
-    space = ' ' * (65 - len(name))
-    print(name + space + ' STATUS ---->' + str(fileObj.is_file()))
+    space = ' ' * (80 - len(name) - len('=> ' + str(pos) + ': '))
+    status_str = ''
+
+    if fileObj.is_file():
+        status_str = 'OK'
+    else:
+        status_str = 'NÃO ENCONTRADO'
+
+    print('=> ' + str(pos) + ': ' + name + space + ' STATUS ---->  ' + status_str)
+
+input()
