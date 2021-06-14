@@ -105,7 +105,7 @@ class mapa(Frame):
         #AO PRESSIONAR P DISPARAR O EVENTO
         self.window.bind("<F1>", self.keyPressed)
         self.window.bind("<F4>", self.keyPressed)
-        self.window.bind("<KeyPress-c>", self.keyPressed)
+        self.window.bind("<KeyPress-p>", self.keyPressed)
 
         self.window.mainloop()
 
@@ -127,7 +127,7 @@ class mapa(Frame):
             #CHAMAR MACRO
             self.macro()
 
-        elif l == 'c':
+        elif l == 'p':
             #ATIVAR EVENTO
             pos = self.queryMousePosition(True)
 
